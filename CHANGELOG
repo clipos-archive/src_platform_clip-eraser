@@ -1,0 +1,19 @@
+# CLIP ChangeLog for app-clip/clip-eraser
+
+*clip-eraser-1.0.2 (16 Mar 2016)
+
+  16 Mar 2016; Alain Ozanne <clipos@ssi.gouv.fr>
+  +clip-eraser-1.0.2.ebuild, -clip-eraser-1.0.1.ebuild:
+  Fix and improve clip-fast-eraser.sh
+
+*clip-eraser-1.0.1 (15 Mar 2016)
+
+  15 Mar 2016; Alain Ozanne <clipos@ssi.gouv.fr>
+  +clip-eraser-1.0.1.ebuild, -clip-eraser-1.0.0.ebuild:
+  Fix the path to hdparm_discard_file.py. 
+
+*clip-eraser-1.0.0 (23 Feb 2016)
+    
+  23 Feb 2016; Alain Ozanne <clipos@ssi.gouv.fr>
+  +clip-eraser-1.0.0.ebuild:
+  First commit for the scripts for erasing a clip installation.
